@@ -1,0 +1,15 @@
+C:\Users\srlab.srlab-HP\documents\visual studio 2010\Projects\DumpImporter\DumpImporter\bin\Debug\DumpImporter.exe
+C:\Users\srlab.srlab-HP\documents\visual studio 2010\Projects\DumpImporter\DumpImporter\bin\Debug\DumpImporter.pdb
+C:\Users\srlab.srlab-HP\documents\visual studio 2010\Projects\DumpImporter\DumpImporter\obj\x86\Debug\DumpImporter.Form1.resources
+C:\Users\srlab.srlab-HP\documents\visual studio 2010\Projects\DumpImporter\DumpImporter\obj\x86\Debug\DumpImporter.Properties.Resources.resources
+C:\Users\srlab.srlab-HP\documents\visual studio 2010\Projects\DumpImporter\DumpImporter\obj\x86\Debug\DumpImporter.csproj.GenerateResource.Cache
+C:\Users\srlab.srlab-HP\documents\visual studio 2010\Projects\DumpImporter\DumpImporter\obj\x86\Debug\DumpImporter.exe
+C:\Users\srlab.srlab-HP\documents\visual studio 2010\Projects\DumpImporter\DumpImporter\obj\x86\Debug\DumpImporter.pdb
+C:\My MSc\ThesisWorks\Crowdsource_Knowledge_Base\DumpImporter\DumpImporter\obj\x86\Debug\DumpImporter.exe
+C:\My MSc\ThesisWorks\Crowdsource_Knowledge_Base\DumpImporter\DumpImporter\obj\x86\Debug\DumpImporter.pdb
+C:\My MSc\ThesisWorks\Crowdsource_Knowledge_Base\DumpImporter\DumpImporter\bin\Debug\DumpImporter.exe
+C:\My MSc\ThesisWorks\Crowdsource_Knowledge_Base\DumpImporter\DumpImporter\bin\Debug\DumpImporter.pdb
+C:\My MSc\ThesisWorks\Crowdsource_Knowledge_Base\DumpImporter\DumpImporter\obj\x86\Debug\DumpImporter.Form1.resources
+C:\My MSc\ThesisWorks\Crowdsource_Knowledge_Base\DumpImporter\DumpImporter\obj\x86\Debug\DumpImporter.Properties.Resources.resources
+C:\My MSc\ThesisWorks\Crowdsource_Knowledge_Base\DumpImporter\DumpImporter\obj\x86\Debug\DumpImporter.csproj.GenerateResource.Cache
+C:\Users\srlab.srlab-HP\Documents\Visual Studio 2010\Projects\DumpImporter\DumpImporter\obj\x86\Debug\DumpImporter.csprojResolveAssemblyReference.cache
